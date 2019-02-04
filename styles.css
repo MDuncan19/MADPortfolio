@@ -1,4 +1,16 @@
 body {
-    background-color: mintcream;
+    background-color: #d6cfb6;
 font-family: Arial, Helvetica, sans-serif;
+}
+
+a { 
+    color: rgb(4, 4, 43);
+    text-decoration: none;
+}
+
+h1 {
+    color: navy;
+}
+p{ 
+    color: teal;
 }
